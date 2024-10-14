@@ -1,0 +1,10 @@
+export enum USER_STATUS {
+  ACTIVE = "ACTIVE",
+  INACTIVE = "INACTIVE",
+}
+
+export enum LOGIN_SOCIES {
+  FACEBOOK = "FACEBOOK",
+  GOOGLE = "GOOGLE",
+  APPLE = "APPLE",
+}
